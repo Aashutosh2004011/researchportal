@@ -1,0 +1,86 @@
+ACME CORPORATION
+Q4 FY2023 EARNINGS CALL TRANSCRIPT
+Date: February 8, 2024
+Participants: James Carter (CEO), Priya Mehta (CFO), Sarah Lin (Head of IR)
+
+---
+
+SARAH LIN (Head of Investor Relations):
+Good morning and welcome to Acme Corporation's Q4 and full year 2023 earnings call. I'm Sarah Lin, Head of Investor Relations. Joining me today are James Carter, our Chief Executive Officer, and Priya Mehta, our Chief Financial Officer. Before we begin, I'd like to remind you that certain statements made during this call are forward-looking statements. Actual results may differ materially.
+
+---
+
+JAMES CARTER (CEO):
+Thank you, Sarah. Good morning everyone. I'm incredibly proud of what our team accomplished in 2023. We delivered record full-year revenue of $12.76 billion, up 13.3% year-over-year, and net income of $1.5 billion — our strongest performance in company history.
+
+Our cloud software segment was the clear standout this year, growing 34% to $4.2 billion in revenue. Enterprise customer additions accelerated significantly, with 847 new logos in Q4 alone — a record quarter. Customer retention remained strong at 94%, up from 91% in 2022, reflecting the stickiness of our platform.
+
+On the international side, APAC grew 28% and EMEA grew 19% — both well ahead of our expectations. We've now crossed $1 billion in annual recurring revenue from outside North America for the first time, which opens up a significant runway for future growth.
+
+We are optimistic about 2024. AI-enabled features across our product suite are resonating with customers, and our pipeline entering the year is 40% larger than it was a year ago. We believe we are still in the early innings of a multi-year digital transformation cycle that plays directly to our strengths.
+
+That said, we are monitoring macroeconomic conditions carefully. Some of our larger enterprise clients have extended procurement cycles, and we saw deal slippage in our on-premise hardware segment in Q4. We expect this softness to continue through the first half of 2024.
+
+---
+
+PRIYA MEHTA (CFO):
+Thank you, James. Let me walk through the financial details.
+
+Full year revenue came in at $12.76 billion, up 13.3% from $11.26 billion in 2022. Gross margin expanded 50 basis points to 39.9%. Operating income was $2.05 billion, representing an operating margin of 16.1%, up from 15.8% in the prior year.
+
+For the fourth quarter specifically, revenue was $3.42 billion, up 11.8% year-over-year. Q4 gross margin was 40.4%, reflecting a richer mix of software and services. Our Q4 operating expenses included a $45 million restructuring charge related to consolidating our legacy on-premise hardware operations. Excluding this item, Q4 adjusted operating margin was 17.8%.
+
+Free cash flow for the full year was $1.84 billion, up from $1.52 billion in 2022. We ended the year with $2.1 billion in cash and equivalents and $3.4 billion in total debt.
+
+During 2023, we repurchased $450 million of our shares and paid $120 million in dividends.
+
+Now turning to guidance for fiscal year 2024:
+
+Revenue: We expect full-year 2024 revenue in the range of $14.0 billion to $14.4 billion, representing growth of approximately 10% to 13% year-over-year.
+
+Gross Margin: We expect full-year gross margin of approximately 40.5% to 41.0%, driven by the continued mix shift toward software and cloud services.
+
+Operating Margin: We expect full-year operating margin of approximately 16.5% to 17.0% on a GAAP basis, and 17.5% to 18.0% on an adjusted basis.
+
+Capital Expenditures: We expect CapEx of approximately $520 million to $560 million in 2024, primarily for data center expansion to support our AI infrastructure roadmap.
+
+EPS: We expect full-year diluted EPS of $13.80 to $14.40.
+
+For Q1 2024 specifically, we expect revenue of $3.25 billion to $3.35 billion and diluted EPS of $3.00 to $3.15.
+
+---
+
+JAMES CARTER (CEO) — Strategic Update:
+
+I want to spend a few minutes on our three major growth initiatives for 2024 and beyond.
+
+First, Project Nexus — our AI-powered analytics platform. We launched the beta in October and already have 120 enterprise customers in pilot. The early feedback has been exceptional — customers are reporting 30-40% reduction in manual reporting time. We plan to make Nexus generally available in Q2 2024 and expect it to contribute approximately $150 million in revenue in its first full year. We are investing $200 million in Nexus development over the next 18 months.
+
+Second, our expansion into the mid-market segment. Historically we've focused on enterprise accounts with over 5,000 employees. We're now launching Acme Essentials — a streamlined, lower-cost version of our platform targeting companies with 500 to 5,000 employees. This segment represents an addressable market of approximately $8 billion that we've largely left untapped. We expect to close our first 500 Essentials customers by end of 2024.
+
+Third, strategic acquisitions. We completed the acquisition of DataSync Technologies in November 2023 for $380 million. DataSync adds real-time data integration capabilities that strengthen our platform for manufacturing and logistics customers. We expect DataSync to contribute approximately $85 million in revenue in 2024 and be accretive to earnings by Q3 2024.
+
+On capacity utilization: Our data centers are currently running at approximately 72% utilization, up from 64% a year ago. We expect utilization to reach 78-80% by end of 2024 as AI workloads scale. The $540 million CapEx guidance I mentioned includes two new data center builds in Virginia and Singapore to get ahead of this demand.
+
+---
+
+Q&A SESSION (Selected Excerpts)
+
+ANALYST (Morgan Stanley): James, can you talk more about the deal slippage you mentioned in enterprise hardware? Are these deals lost or just pushed out?
+
+JAMES CARTER: These are pushed out, not lost. We're seeing customers delay hardware refresh cycles as they evaluate whether to move workloads to cloud instead. Our view is that roughly 60% of these deals will close in H1 2024, and the rest will convert to cloud contracts, which are actually higher margin for us. So we're cautiously optimistic about the outcome either way.
+
+ANALYST (Goldman Sachs): Priya, the CapEx guidance seems to step up meaningfully. Is 2024 a peak year?
+
+PRIYA MEHTA: We expect 2024 CapEx to be elevated relative to 2023's $410 million spend, primarily due to the two new data center builds and AI infrastructure. We currently expect 2025 CapEx to moderate back toward $420 to $450 million once this investment cycle completes.
+
+ANALYST (JP Morgan): On competition — are you seeing increased pricing pressure from any specific competitors?
+
+JAMES CARTER: We're always in a competitive market. In the cloud analytics space, we're seeing more aggressive pricing from a couple of players. However, our win rates in competitive bids actually improved in 2023 — we won 67% of competitive deals, up from 61% in 2022. We believe our integrated platform approach and customer service quality remain strong differentiators.
+
+---
+
+SARAH LIN:
+Thank you everyone for joining us today. A replay of this call will be available on our investor relations website. We look forward to speaking with you again when we report Q1 2024 results in May. Have a great day.
+
+[END OF TRANSCRIPT]
