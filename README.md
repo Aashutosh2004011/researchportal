@@ -173,7 +173,7 @@ research-portal/
 │   │   ├── EarningsSummary.tsx     ← Tone banner, quote cards, guidance sections
 │   │   └── LoadingState.tsx        ← Animated step-by-step progress indicator
 │   ├── lib/
-│   │   ├── anthropic-extractor.ts  ← Groq/Llama prompts and extraction logic
+│   │   ├── llm-extractor.ts        ← Groq/Llama prompts and extraction logic
 │   │   ├── excel-generator.ts      ← 3-sheet ExcelJS workbook builder
 │   │   ├── pdf-parser.ts           ← PDF/TXT text extraction (Node.js only)
 │   │   └── utils.ts                ← Shared helpers (formatting, parsing)

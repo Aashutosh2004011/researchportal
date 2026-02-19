@@ -5,7 +5,7 @@
 
 import { NextRequest, NextResponse } from 'next/server'
 import { parsePDF, parseTextFile } from '@/lib/pdf-parser'
-import { analyzeEarningsCall } from '@/lib/anthropic-extractor'
+import { analyzeEarningsCall } from '@/lib/llm-extractor'
 import type { ApiResponse, EarningsAnalysisResult } from '@/types'
 
 export const runtime = 'nodejs'

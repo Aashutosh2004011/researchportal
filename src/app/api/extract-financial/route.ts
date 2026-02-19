@@ -5,7 +5,7 @@
 
 import { NextRequest, NextResponse } from 'next/server'
 import { parsePDF, parseTextFile } from '@/lib/pdf-parser'
-import { extractFinancialData } from '@/lib/anthropic-extractor'
+import { extractFinancialData } from '@/lib/llm-extractor'
 import type { ApiResponse, FinancialExtractionResult } from '@/types'
 
 // Ensure this runs on Node.js runtime (required for pdf-parse)
